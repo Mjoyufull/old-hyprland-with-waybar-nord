@@ -97,4 +97,4 @@ Enjoy your custom Linux experience! 🎉
 
 ---
 
-Feel free to replace placeholders like `yourusername/your-repo-name` with the actual GitHub repository details.
+
